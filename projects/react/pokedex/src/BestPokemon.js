@@ -1,6 +1,5 @@
 const BestPokemon = (props) => {
     // let abilities = ["Hyperbeam", "Flamethrower", "Steel wing"];
-    console.log(props);
     return(
       <div>
         <p>The best pokemon is charizard</p>
